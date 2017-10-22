@@ -12,3 +12,6 @@ for compilation game, Delphi 7 or greater and GLScene 2007 or greater is needed.
 ## Screenshot
 
 WIP
+
+## Copyrights
+by Andrey Kabylin in 2011y
